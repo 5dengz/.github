@@ -1,12 +1,6 @@
-## Hi there 👋
+# 멍코스
+멍코스는 강아지와 함께 안전하게 산책할 수 있는 경로를 제공하는 앱입니다.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+- **안전한 산책 경로 검색:** 사용자 주변의 안전한 산책 경로를 실시간으로 검색할 수 있습니다.
+- **위험 구역 알림:** 위험 구역에 대한 정보를 제공하여 안전한 산책을 돕습니다.
